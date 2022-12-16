@@ -1,0 +1,6 @@
+#FileLock
+#Thu Dec 15 09:32:58 UTC 2022
+hostName=mypc
+id=1851521400f3f672f4f3815fce3e259941fc6f49fe8
+method=file
+server=127.0.1.1\:43091
